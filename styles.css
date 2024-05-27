@@ -1,8 +1,8 @@
 :root {
     --branco-principal: #ffffff;
     --cinza-secundario: #c0c0c0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --botao-azul: #8b8b8b;
+    --cor-de-fundo: #248ffa;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
     color: var(--branco-principal);
 }
 
-* {
+*{ 
     margin: 0;
     padding: 0;
 }
