@@ -1,0 +1,30 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --branco-principal: #ffffff;
+    --cinza-secundario: #c0c0c0;
+    --botao-azul: #8b8b8b;
+    --cor-de-fundo: #248ffa;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+
+header{
+    width: auto;
+    background-color: #248ffa;
+    display: flex;
+}
+
+.logo-img{
+    margin: 10px;
+    padding: 10px;
+    height: 10%;
+    width: 30%;
+}
+
