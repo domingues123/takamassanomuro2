@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('disney-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+.login-container .logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.login-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+.login-container button {
+    padding: 10px;
+    background: #0063e5;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
