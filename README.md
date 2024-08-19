@@ -1,1 +1,0 @@
-# takamassanomuro2
